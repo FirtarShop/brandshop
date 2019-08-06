@@ -51,6 +51,7 @@ export default {
     };
   },
   created: function() {
+    debugger;
     var audios = [
       {
         audioID: 1,
